@@ -1,16 +1,44 @@
-## Hi there 👋
+# ✨ Hi ✨
 
-<!--
-**Raadic/Raadic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌈 Vibe-Driven Developer | Aesthetic > Functionality | Chaos Engineer 🌈
 
-Here are some ideas to get you started:
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F745D3&width=435&lines=Making+pretty+things+that+sometimes+work)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧙‍♂️ About Me
+
+I don't code - I vibe with the keyboard until something happens. My Git commits are more like modern art than actual development. Stack Overflow isn't a resource; it's my coding partner.
+
+- 🔮 Turning coffee into barely functional code since [2015]
+- 💫 Professional "it works on my machine" enthusiast
+- 🎨 If it looks good, it IS good (please don't check the console)
+- 🌊 Fluent in Copy & Paste and Google-Fu
+- 🔥 Turning 50 lines of efficient code into 500 lines of vibes
+
+### 💅 My Tech Stack
+
+```
+function mySkills() {
+  return {
+    languages: ['HTML', 'CSS', 'PHP', 'Enough JavaScript to be dangerous'],
+    tools: ['VS Code themes', 'Pretty terminal configs', 'Custom cursor packs'],
+    expertise: ['Making things pretty', 'Creative variable naming', 'Breaking production with style'],
+    currentlyLearning: 'How to make my code actually work consistently'
+  };
+}
+```
+
+### 📊 GitHub Stats That Don't Reflect My Vibe
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Raadic&show_icons=true&theme=radical)
+
+### 🏆 Achievements
+
+- 🌟 Once fixed a bug by deleting the entire function (it somehow worked better)
+- 🎯 Created a project that ran perfectly until someone else looked at it
+- 🚀 Successfully convinced the team that my UI choices were "experimental design"
+- 💯 Holds the office record for "most creative workarounds"
+
+
+---
+
+> "It's not about whether the code works, it's about how it looks while failing." - Me, today
