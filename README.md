@@ -11,9 +11,8 @@ I don't code - I vibe with the keyboard until something happens. My Git commits 
 - 🔮 Turning coffee into barely functional code since [2015]
 - 💫 Professional "it works on my machine" enthusiast
 - 🎨 If it looks good, it IS good (please don't check the console)
-- 🌊 Fluent in Copy & Paste and Google-Fu
-- 🔥 Turning 50 lines of efficient code into 500 lines of vibes
-
+- 🌊 Fluent in Copy & Paste
+- 
 ### 💅 My Tech Stack
 
 ```
