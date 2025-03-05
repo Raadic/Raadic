@@ -12,7 +12,7 @@ I don't code - I vibe with the keyboard until something happens. My Git commits 
 - 💫 Professional "it works on my machine" enthusiast
 - 🎨 If it looks good, it IS good (please don't check the console)
 - 🌊 Fluent in Copy & Paste
-- 
+  
 ### 💅 My Tech Stack
 
 ```
