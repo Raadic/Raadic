@@ -27,7 +27,7 @@ function mySkills() {
 }
 ```
 
-### 📊 GitHub Stats That Don't Reflect My Vibe
+### 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Raadic&show_icons=true&theme=radical)
 
