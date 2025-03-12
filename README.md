@@ -1,7 +1,5 @@
 # ✨ Hi ✨
 
-## 🌈 Vibe-Driven Developer | Aesthetic > Functionality | Chaos Engineer 🌈
-
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F745D3&width=435&lines=Making+pretty+things+that+sometimes+work)
 
 ### 🧙‍♂️ About Me
