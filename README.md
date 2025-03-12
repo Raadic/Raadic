@@ -6,8 +6,6 @@
 
 ### 🧙‍♂️ About Me
 
-I don't code - I vibe with the keyboard until something happens. My Git commits are more like modern art than actual development. Stack Overflow isn't a resource; it's my coding partner.
-
 - 🔮 Turning coffee into barely functional code since [2015]
 - 💫 Professional "it works on my machine" enthusiast
 - 🎨 If it looks good, it IS good (please don't check the console)
@@ -20,7 +18,7 @@ function mySkills() {
   return {
     languages: ['HTML', 'CSS', 'PHP', 'Enough JavaScript to be dangerous'],
     tools: ['VS Code themes', 'Pretty terminal configs', 'Custom cursor packs'],
-    expertise: ['Making things pretty', 'Creative variable naming', 'Breaking production with style'],
+    expertise: ['Making things pretty', 'Creative variable naming', 'Breaking production'],
     currentlyLearning: 'How to make my code actually work consistently'
   };
 }
@@ -40,4 +38,4 @@ function mySkills() {
 
 ---
 
-> "It's not about whether the code works, it's about how it looks while failing." - Me, today
+> "It's not about whether the code works, it's about how it looks while failing." - Me, this morning.
