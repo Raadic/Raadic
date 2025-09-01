@@ -1,15 +1,13 @@
-# ✨ Hi ✨
+# hello 👋
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F745D3&width=435&lines=Making+pretty+things+that+sometimes+work)
+### About Me
 
-### 🧙‍♂️ About Me
-
-- 🔮 Turning coffee into barely functional code since [2015]
-- 💫 Professional "it works on my machine" enthusiast
-- 🎨 If it looks good, it IS good (please don't check the console)
-- 🌊 Fluent in Copy & Paste
+- Turning coffee into barely functional code since [2015]
+- Professional "it works on my machine" enthusiast
+- If it looks good, it IS good (please don't check the console)
+- Fluent in Copy & Paste
   
-### 🪄 My Tech Stack
+### My Tech Stack
 
 ```
 function mySkills() {
@@ -22,16 +20,16 @@ function mySkills() {
 }
 ```
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Raadic&show_icons=true&theme=radical)
 
-### 🏆 Achievements
+### Achievements
 
-- 🌟 Once fixed a bug by deleting the entire function (it somehow worked better)
-- 🎯 Created a project that ran perfectly until someone else looked at it
-- 🚀 Successfully convinced the team that my UI choices were "experimental design"
-- 💯 Holds the office record for "most creative workarounds"
+- Once fixed a bug by deleting the entire function (it somehow worked better)
+- Created a project that ran perfectly until someone else looked at it
+- Successfully convinced the team that my UI choices were "experimental design"
+- Holds the office record for "most creative workarounds"
 
 
 ---
