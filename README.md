@@ -15,7 +15,7 @@ function mySkills() {
     languages: ['HTML', 'CSS', 'PHP', 'Enough JavaScript to be dangerous'],
     tools: ['VS Code themes', 'Pretty terminal configs', 'Custom cursor packs'],
     expertise: ['Making things pretty', 'Creative variable naming', 'Breaking production'],
-    currentlyLearning: 'How to train AI's to take my job'
+    currentlyLearning: 'How to train AI to take my job'
   };
 }
 ```
